@@ -58,9 +58,6 @@ Check if compilable:
 `$ cargo check`  
 cargo check is much faster than cargo build, because it skips the step of producing an executable. If you’re continually checking your work while writing the code, using cargo check will speed up the process.
 
-Run code using cargo:  
-`$ cargo build`  
-Easy way to compile and run your code together.
 
 ## Intro stuff
 
