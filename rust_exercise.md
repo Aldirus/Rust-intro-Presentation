@@ -32,4 +32,4 @@ Ex: 4,000,000 will give you x
 
 ----
 ## Results
-![Result Image](https://github.com/JT-Stevens/Rust-intro-Presentation/exercise_results.PNG "Your results should look something like this!")
+![Result Image](https://raw.githubusercontent.com/JT-Stevens/Rust-intro-Presentation/master/exercise_results.PNG "Your results should look something like this!")
